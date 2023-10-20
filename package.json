@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "http://ledidan.github.io/ov_pay_cicd/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
